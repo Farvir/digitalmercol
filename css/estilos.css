@@ -1,0 +1,9 @@
+:root{
+    --colortextos: rgb(1, 122, 182);
+}
+
+*,::before,::after{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
